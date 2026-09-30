@@ -1,0 +1,9 @@
+
+RETAIL SALES — EDA KEY FINDINGS
+================================
+1. Sales are right-skewed: most orders are modest, a smaller number are large (median well below mean before capping).
+2. Electronics ($328K) and Office Supplies ($321K) form a top revenue tier; Furniture and Clothing trail ~35% lower.
+3. No Pareto concentration: top 20% of products (99 of 499) generate only 27.2% of revenue -- revenue is broadly distributed, not hit-driven.
+4. Monthly sales are stable (complete months: $72.7K-$82.7K, avg $78.8K) with no dominant seasonal pattern or clear growth trend.
+5. Discount shows no meaningful correlation with Sales or Profit (~0.00-0.02) -- discounting is not currently a lever tied to either outcome.
+6. Unit Price and Quantity are moderately negatively correlated (-0.58): customers buy more units of cheaper items, fewer of expensive ones.

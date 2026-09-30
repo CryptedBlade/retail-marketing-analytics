@@ -1,0 +1,48 @@
+
+RETAIL & MARKETING ANALYTICS — EXECUTIVE SUMMARY
+==================================================
+
+BUSINESS OVERVIEW
+------------------
+Total Revenue: $1,078,670.98
+Total Orders: 10,000
+Total Customers: 1,986
+Average Order Value: $107.87
+Profit Margin: 18.4%
+Churn Rate (180+ days inactive): 10.9%
+
+KEY FINDINGS
+------------------
+1. Revenue is concentrated in two categories: Electronics ($328,423) and
+   Office Supplies ($321,281) together drive 60% of revenue.
+
+2. Monthly sales are stable (avg MoM growth: -0.2%) with no dominant seasonal pattern --
+   this is a steady-state business, not currently in a growth or decline phase.
+
+3. Customer segmentation (RFM) identifies 278 "At Risk" customers (14.0% of base) who carry
+   historically strong value (avg. $698 spend) but have not ordered in 126+ days on average --
+   the single highest-priority group for retention intervention.
+
+4. K-Means clustering independently confirms 3 natural customer tiers: Lost/Dormant (18.8%),
+   Core (48.2%), and High-Value (32.9%) -- validating that RFM's business segments reflect real,
+   statistically distinct behavioral groups, not arbitrary thresholds.
+
+5. Regional performance is uneven: South underperforms East by 33% in revenue, driven by both
+   fewer customers and lower spend per customer -- a compounding gap worth prioritizing.
+
+6. Discount shows no measurable correlation with sales or profit (~0.00-0.02) -- current
+   discounting practice is not demonstrably driving incremental revenue.
+
+RECOMMENDATIONS
+------------------
+Immediate (0-30 days):
+- Launch a win-back campaign targeted at the 278 "At Risk" customers (~$194K in historical
+  revenue exposure)
+
+Short-term (2-3 months):
+- Investigate South region's lower customer acquisition and spend-per-customer; pilot a
+  region-specific promotion
+
+Long-term (6-12 months):
+- Reassess discount strategy given the lack of correlation with sales/profit; consider testing
+  whether discounts are being applied where they add the least value

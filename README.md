@@ -50,7 +50,7 @@ dashboards/       the Power BI file
 3. `notebook_03_advanced_analytics.ipynb` covers RFM, K-Means clustering, customer lifetime value and cohort retention.
 4. `notebook_04_kpis.ipynb` builds the KPI tables and the executive summary.
 
-Each notebook reads files the one before it created, so run them in order. Open Jupyter from the project's main folder.
+To run them yourself, first install the libraries with pip install -r requirements.txt. Each notebook reads files the one before it created, so run them in order, and open Jupyter from the project's main folder.
 
 ## The dashboard
 
